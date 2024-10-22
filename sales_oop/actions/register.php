@@ -7,5 +7,5 @@ $product = new Product;
 //Call the Method
 $product->store($_POST);
 
-
+// upload test
 ?>
